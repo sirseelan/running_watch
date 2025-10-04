@@ -1,4 +1,4 @@
-# alleyway
+# Running watch
 
 A running watch that can show heart rate, run pace, miles ran, stopwatch, and a clock all in one. Perfect for runners. It can also connect to an app via bluetooth to log to strava.
 
